@@ -22,7 +22,7 @@ const Base = () =>{
       <div className='text-box '>
         {/* <h1>Services</h1>
         <p>Home Services</p> */}
-        <h1><span className='text-6xl'>  TUJUANE EVENTS & ADVENTURES LTD </span><br /> 
+        <h1><span className='text-4xl'>  TUJUANE EVENTS & ADVENTURES LTD </span>  
         <span className='text-3xl  flex w-full '>TRANSFORMING COMMUNITIES.</span> 
           <span className='text-lg'>Tujuaane Events and Adventures transforms communities through a holistic approach, involving clean-ups, tree planting, tourism events, charity initiatives, and educational support for students.</span> </h1>
       </div>
