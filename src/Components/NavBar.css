@@ -60,6 +60,7 @@
     width: 100%;
 }
 
+
 @media(max-width: 700px){
 .navbar{
   padding: 30px 0px;
@@ -72,9 +73,6 @@
   margin: 0 10px;
   font-size: 7px;
 }
-.nav-links {
-  /* margin-right: 10px; */
-}
-.link{
+
  }
-}
+

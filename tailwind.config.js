@@ -17,6 +17,7 @@ export default {
         'backKenya':"url(/src/images/mountkenya.jpeg)",
         'bgKenya':"url(/src/images/mount.jpg)",
       },
+      xsm:'max-width(485px)'
 
     },
   },

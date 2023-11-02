@@ -15,22 +15,28 @@ body {
   .showcase{
     height:100vh;
     width: 100vw;
+    display: flex;
     background-repeat: no-repeat;
     background-attachment: scroll;
     background-repeat: no-repeat;
     background-size: cover; 
     background-position: center;
-     background-image: linear-gradient(rgba(4, 9,30,0.5), rgba(4,9,30,0.5)), url(/images/bg4.jpg); 
+     background-image: linear-gradient(rgba(4, 9,30,0.5), rgba(4,9,30,0.5)), url(/images/bg4.jpg);
+     align-items: center;
+     justify-content: center; 
+     
   }
   .navbar{
     display: flex;
     width: 100%;
+    top: 0;
+    left: 0;
     
   }
  
 .text-box h1{
   pointer-events: none;
-  width: 600px;
+  /* width: 600px; */
   
 }
 .text-box{
