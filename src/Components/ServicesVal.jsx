@@ -8,7 +8,7 @@ const ServicesVal = () => {
     <>
      
       
-    <div className="card grid md:grid-cols-2 xl:grid-cols-2  lg:grid-cols-2 sm:grid-cols-1 xl:px-40  lg:px-24 sm:px-5 gap-2 sm:gap-1 py-10 w-full overflow-x-hidden" id='ServicesVal'>
+    <div className="card grid md:grid-cols-2 xl:grid-cols-2  lg:grid-cols-2 sm:grid-cols-1 xl:px-40  lg:px-24 sm:px-5 gap-2 sm:gap-1  w-full overflow-x-hidden" id='ServicesVal'>
 
       <div className="words px-12">
     <h4>Our Services</h4>

@@ -2,8 +2,8 @@ import React from 'react'
 
 function About() {
   return (
-    <div id='About' className="px-4 py-16 mx-auto sm:max-w-xl md:max-w-full lg:max-w-screen-xl md:px-24 lg:px-8 lg:py-20">
-    <div className="grid gap-40 lg:grid-cols-2">
+    <div id='About' className="px-4 py-16 mx-auto sm:max-w-[475px] md:max-w-full lg:max-w-screen-xl md:px-24 lg:px-8 lg:py-20">
+    <div className="grid gap-40 lg:grid-cols-2 max-[485px]:gap-4">
       
 
     <div className="flex items-center justify-center -mx-4 lg:pl-8">
